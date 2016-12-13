@@ -1,4 +1,6 @@
 # C / C++ code
 
-[x] Mario's wall.
-[x] Hello, world!
+- [ ] CS50
+  - [ ] Week 1
+    - [x] Mario's wall.
+    - [x] Hello, world!
