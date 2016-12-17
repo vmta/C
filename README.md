@@ -2,5 +2,6 @@
 
 - [ ] CS50
   - [ ] Week 1
-    - [x] Mario's wall.
     - [x] Hello, world!
+    - [x] Mario's wall.
+    - [x] Greedy cashier.
