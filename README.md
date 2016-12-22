@@ -5,3 +5,4 @@
     - [x] Hello, world!
     - [x] Mario's wall.
     - [x] Greedy cashier.
+    - [x] Initials.
