@@ -5,6 +5,7 @@
     - [x] Hello, world!
     - [x] Mario's wall.
     - [x] Greedy cashier.
-  - [ ] Week 2
+  - [x] Week 2
     - [x] Initials.
     - [x] Caesar's cipher algorithm.
+    - [x] Vigenere's cipher algorithm.
